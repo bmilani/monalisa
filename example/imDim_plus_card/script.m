@@ -1,6 +1,5 @@
 %% volume_elements
 
-
 % This depends only on the trajectory. There is a function
 % bmVolumeElement_blablabla for each type of trajectory. For special
 % trejectories you may have to implement your own volumeElement,function. 
